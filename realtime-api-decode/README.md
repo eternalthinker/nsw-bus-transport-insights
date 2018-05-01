@@ -1,19 +1,19 @@
 
-# Generate python code for GTFS protobuf definition
+# Generate python code for GTFS protobuf definition (already present in gen/ directory)
 
-./protoc-3.5.1-linux-x86_64/bin/protoc --proto_path=gtfs --python_out=gen gtfs/gtfs-realtime.proto
+`./protoc-3.5.1-linux-x86_64/bin/protoc --proto_path=gtfs --python_out=gen gtfs/gtfs-realtime.proto`
 
 
 # Add required python libraries
 
-`cd realtime-api-code` 
-`virtualenv -p python3 venv`
-`source venv/bin/activate`
-`pip install -r requirements.txt`
+1. `cd realtime-api-code`  
+2. `virtualenv -p python3 venv`  
+3. `source venv/bin/activate`  
+4. `pip install -r requirements.txt`   
 
 
 # Run script
-* mkdir download
-* Add your API key in secret.py
-* python decode_api.py
-* Updated files are downloaded to download/ directory
+1. `mkdir download`
+2. Add your API key in `secret.py`   
+3. `python decode_api.py`   
+4. Updated files are downloaded to `download/` directory  
