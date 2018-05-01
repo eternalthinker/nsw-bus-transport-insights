@@ -2,9 +2,10 @@ import requests
 
 import gen.gtfs_realtime_pb2 as gtfs
 from config import config
+from secret import secret
 
 
-api_key = config["api_key"]
+api_key = secret["api_key"]
 endpoints = config["endpoints"]
 headers = {
 	"Authorization": "apikey {}".format(api_key)

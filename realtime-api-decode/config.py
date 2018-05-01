@@ -1,5 +1,4 @@
 config = {
-	"api_key": "wsCeAjlzoIgMEAtNfDjnDCydWAUQp80JZ7JP",
 	"endpoints": [
 		{
 			"endpoint": "https://api.transport.nsw.gov.au/v1/gtfs/vehiclepos/buses",
