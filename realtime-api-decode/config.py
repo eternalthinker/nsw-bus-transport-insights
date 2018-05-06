@@ -1,8 +1,8 @@
 config = {
 	"endpoints": {
-		"vehiclepos": {
+		"vehicle_pos": {
 			"endpoint": "https://api.transport.nsw.gov.au/v1/gtfs/vehiclepos/buses",
-			"filename": "vehiclepos"
+			"filename": "vehicle_pos"
 		},
 		"alerts": {
 			"endpoint": "https://api.transport.nsw.gov.au/v1/gtfs/alerts/buses",
