@@ -1,6 +1,7 @@
 import requests
 from google.transit import gtfs_realtime_pb2
 import json
+import mysql.connector
 
 # import gen.gtfs_realtime_pb2 as gtfs
 from config import config
@@ -66,15 +67,15 @@ for entity in vehicle_pos_feed.entity:
 	vehicle_info = {
 		"route_id": route_id,
 		"trip_id": trip_id,
-		"latitude": vehicle.position.latitude,
-		"longitude": vehicle.position.longitude,
-		"timestamp": timestamp,
+		"latitude": str(vehicle.position.latitude),
+		"longitude": str(vehicle.position.longitude),
+		"timestamp": str(timestamp),
 		"congestion_level": vehicle.congestion_level,
 		"occupancy_status": vehicle.occupancy_status,
 		"vehicle_id": vehicle.vehicle.id,
 		"stop_id": near_stop.stop_id,
-		"delay": near_stop.arrival.delay,
-		"arrival_timestamp": near_stop.arrival.time
+		"delay": str(near_stop.arrival.delay),
+		"arrival_timestamp": str(near_stop.arrival.time)
 	}
 	vehicle_infos.append(vehicle_info)
 
@@ -83,20 +84,26 @@ with open("download/rows.json", "w") as rows_file:
 	json_str = json.dumps(vehicle_infos, indent=4)
 	rows_file.write(json_str)
 
+db_config = secret["db"]
+cnx = mysql.connector.connect(user=db_config["user"], 
+							  password=db_config["password"],
+                              host='127.0.0.1',
+                              database=db_config["db"])
+for vehicle_info in vehicle_infos:
+	cursor = cnx.cursor()
+	add_bus_update = ("INSERT INTO bus_updates "
+		"(route_id, trip_id, stop_id, vehicle_id, timestamp, arrival_timestamp, congestion_level, occupancy_status, delay, latitude, longitude)"
+		" VALUES ("
+		"%(route_id)s, %(trip_id)s, %(stop_id)s, %(vehicle_id)s, %(timestamp)s, %(arrival_timestamp)s, "
+		"%(congestion_level)s, %(occupancy_status)s, %(delay)s, %(latitude)s, %(longitude)s"
+		")")
+	try:
+		cursor.execute(add_bus_update, vehicle_info)
+	except:
+		print(cursor.statement)
+	cnx.commit()
+	cursor.close()
+cnx.close()
+
 print("Done!")
 
-
-# vehicle_infos = []
-# for entity in vehicle_pos_feed.entity:
-
-# for entry in endpoints:
-# 	endpoint = entry["endpoint"]
-# 	filename = entry["filename"]
-# 	r = requests.get(endpoint, headers=headers)
-# 	feedmsg = gtfs.FeedMessage()
-# 	feedmsg.ParseFromString(r.content)
-# 	save_file_name = "download/{}.txt".format(filename)
-# 	save_file = open(save_file_name, "w")
-# 	save_file.write(str(feedmsg))
-# 	save_file.close()
-# 	print("Saved: {}".format(endpoint))

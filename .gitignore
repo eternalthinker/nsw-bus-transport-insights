@@ -1,6 +1,5 @@
 
 # Project specific ignores
-realtime-api-decode/gen/
 realtime-api-decode/download/
 realtime-api-decode/secret.py
 *.sublime-project
