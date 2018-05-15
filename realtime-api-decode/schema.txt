@@ -1,0 +1,16 @@
++-------------------+-------------+------+-----+---------+----------------+
+| Field             | Type        | Null | Key | Default | Extra          |
++-------------------+-------------+------+-----+---------+----------------+
+| id                | int(11)     | NO   | PRI | NULL    | auto_increment |
+| stop_id           | varchar(25) | YES  |     | NULL    |                |
+| arrival_timestamp | varchar(25) | YES  |     | NULL    |                |
+| vehicle_id        | varchar(50) | YES  |     | NULL    |                |
+| congestion_level  | int(2)      | YES  |     | NULL    |                |
+| longitude         | varchar(50) | YES  |     | NULL    |                |
+| latitude          | varchar(50) | YES  |     | NULL    |                |
+| trip_id           | varchar(25) | YES  |     | NULL    |                |
+| occupancy_status  | int(2)      | YES  |     | NULL    |                |
+| route_id          | varchar(25) | YES  |     | NULL    |                |
+| delay             | varchar(25) | YES  |     | NULL    |                |
+| timestamp         | varchar(25) | YES  |     | NULL    |                |
++-------------------+-------------+------+-----+---------+----------------+
