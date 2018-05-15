@@ -1,0 +1,1111 @@
+route_id,service_id,trip_id,shape_id,trip_headsign,direction_id,block_id,wheelchair_accessible,trip_note,route_direction
+2441_891,1,105632,11839,Unsw-High St,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,1,105634,11839,Unsw-High St,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,1,105635,11839,Unsw-High St,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,1,105642,11839,Unsw-High St,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,1,105644,11839,Unsw-High St,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,1,105647,11839,Unsw-High St,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,1,105649,11839,Unsw-High St,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,1,105653,11839,Unsw-High St,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,1,105657,11839,Unsw-High St,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,1,105659,11839,Unsw-High St,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,1,105662,11839,Unsw-High St,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,1,397076,11839,Unsw-High St,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,1,397078,11839,Unsw-High St,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_391,213,448595,47918,Port Botany Depot,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_391,213,448646,47905,Matraville,0,,2,1492.0,Central Railway Square to La Perouse or Port Botany
+2441_391,213,448921,47918,Port Botany Depot,0,,2,,Central Railway Square to La Perouse or Port Botany
+2441_391,213,448936,47931,La Perouse,0,,1,1492.0,Central Railway Square to La Perouse or Port Botany
+2441_891,1,527166,11839,Unsw-High St,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,583221,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,583222,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,583223,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,583224,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,583225,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,583226,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,115,583227,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,583228,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,115,584024,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,115,584025,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,115,584026,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,584027,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,584028,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,115,584029,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,584030,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,164,584031,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,115,584032,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,584033,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,115,584034,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,584135,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,115,584136,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,584137,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,584138,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,115,584139,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,584140,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,584646,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,584647,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,584648,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,584649,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,584650,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,584651,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,115,584652,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,584653,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,585165,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,585166,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,585167,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,585168,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,585169,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,585170,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,585171,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,585172,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,585173,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,585174,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,585175,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,585246,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,585247,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,585248,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,586391,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,586392,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,586393,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_395,213,607031,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,213,607048,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,213,607053,55596,Maroubra Beach,0,,2,,Central Railway Square to Maroubra Beach
+2441_393,213,607061,55538,Little Bay,0,,2,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607081,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_391,213,607103,55599,Port Botany Depot,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_393,213,607106,55586,Maroubra Junction,0,,2,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_391,213,607109,55599,Port Botany Depot,0,,2,,Central Railway Square to La Perouse or Port Botany
+2441_391,213,607110,55599,Port Botany Depot,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_391,213,607111,55599,Port Botany Depot,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_391,213,607112,55599,Port Botany Depot,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_391,213,607131,55583,La Perouse,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_395,213,607144,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_393,213,607150,55588,Kingsford,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607151,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607152,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,273,607153,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,273,607154,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_395,213,607155,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_391,213,607157,55599,Port Botany Depot,0,,2,,Central Railway Square to La Perouse or Port Botany
+2441_393,213,607164,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_391,213,607167,55583,La Perouse,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_393,213,607198,55538,Little Bay,0,,2,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607210,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607215,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607216,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607217,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607251,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607254,55586,Maroubra Junction,0,,2,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607255,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_395,213,607271,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,213,607272,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,213,607273,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,213,607274,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,213,607277,55596,Maroubra Beach,0,,2,,Central Railway Square to Maroubra Beach
+2441_391,213,607284,55583,La Perouse,0,,2,,Central Railway Square to La Perouse or Port Botany
+2441_395,213,607295,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,213,607296,55596,Maroubra Beach,0,,2,,Central Railway Square to Maroubra Beach
+2441_395,213,607297,55596,Maroubra Beach,0,,2,,Central Railway Square to Maroubra Beach
+2441_393,213,607315,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_395,213,607322,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_391,213,607369,55551,Matraville,0,,2,,Central Railway Square to La Perouse or Port Botany
+2441_395,213,607370,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_391,213,607385,55551,Matraville,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_391,213,607386,55551,Matraville,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_393,213,607396,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607397,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607410,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607413,55586,Maroubra Junction,0,,2,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607414,55586,Maroubra Junction,0,,2,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607415,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607416,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607417,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607418,55586,Maroubra Junction,0,,2,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607419,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607420,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607421,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607422,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607423,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_391,213,607424,55583,La Perouse,0,,2,,Central Railway Square to La Perouse or Port Botany
+2441_391,213,607425,55583,La Perouse,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_391,213,607426,55583,La Perouse,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_391,213,607427,55583,La Perouse,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_395,213,607429,55596,Maroubra Beach,0,,2,,Central Railway Square to Maroubra Beach
+2441_395,213,607430,55596,Maroubra Beach,0,,2,,Central Railway Square to Maroubra Beach
+2441_391,213,607447,55599,Port Botany Depot,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_395,213,607482,55596,Maroubra Beach,0,,2,,Central Railway Square to Maroubra Beach
+2441_395,213,607483,55596,Maroubra Beach,0,,2,,Central Railway Square to Maroubra Beach
+2441_395,213,607484,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,213,607485,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,213,607486,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,213,607487,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,213,607488,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,213,607489,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,213,607490,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,213,607493,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_393,213,607516,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607517,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_395,213,607519,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,213,607523,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_391,213,607558,55599,Port Botany Depot,0,,2,,Central Railway Square to La Perouse or Port Botany
+2441_391,213,607563,55599,Port Botany Depot,0,,2,,Central Railway Square to La Perouse or Port Botany
+2441_393,213,607565,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607566,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607567,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607569,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_395,213,607574,55596,Maroubra Beach,0,,2,,Central Railway Square to Maroubra Beach
+2441_391,213,607632,55551,Matraville,0,,2,,Central Railway Square to La Perouse or Port Botany
+2441_393,213,607643,55538,Little Bay,0,,2,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607677,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607678,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607679,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607680,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_391,213,607689,55599,Port Botany Depot,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_391,213,607698,55551,Matraville,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_395,213,607700,55596,Maroubra Beach,0,,2,,Central Railway Square to Maroubra Beach
+2441_395,213,607788,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,213,607808,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_391,213,607824,55551,Matraville,0,,2,,Central Railway Square to La Perouse or Port Botany
+2441_391,213,607825,55551,Matraville,0,,2,,Central Railway Square to La Perouse or Port Botany
+2441_391,213,607826,55551,Matraville,0,,2,,Central Railway Square to La Perouse or Port Botany
+2441_391,213,607831,55599,Port Botany Depot,0,,2,,Central Railway Square to La Perouse or Port Botany
+2441_393,213,607902,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607903,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607904,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607920,55586,Maroubra Junction,0,,2,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,607939,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_391,213,607962,55583,La Perouse,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_393,213,608001,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_391,213,608011,55599,Port Botany Depot,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_395,213,608025,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_393,213,608061,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_391,213,608069,55599,Port Botany Depot,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_393,213,608083,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,608098,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,608099,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,608100,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,608101,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,608102,55538,Little Bay,0,,2,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,608103,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,608104,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,608105,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,608106,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_391,213,608116,55599,Port Botany Depot,0,,2,,Central Railway Square to La Perouse or Port Botany
+2441_395,213,608126,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_393,272,610739,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_391,272,610873,55583,La Perouse,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_393,356,610913,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,610914,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,610915,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,610916,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,610917,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,610918,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,610919,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,610920,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,610921,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,610923,55682,La Perouse,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,610930,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,610931,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_395,356,610991,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,356,610992,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,356,610993,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,356,610994,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,356,610995,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,356,610996,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,356,610997,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,356,610998,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,356,610999,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,356,611000,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,356,611001,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,356,611002,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_393,272,611057,55682,La Perouse,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,611093,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,611094,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,611095,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,611096,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,611097,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,611098,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,611099,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,611100,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,611101,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,611102,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_391,356,611122,55583,La Perouse,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_391,356,611123,55583,La Perouse,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_391,356,611124,55583,La Perouse,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_391,356,611125,55583,La Perouse,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_395,356,611130,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_393,356,611216,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,611217,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,611218,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,611219,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,611220,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,611223,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,611234,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,272,611237,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,611240,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,611241,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,611242,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,611243,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,611244,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,611245,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,611246,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,611247,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,611248,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,611249,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,611250,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,611251,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_391,356,611281,55583,La Perouse,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_391,356,611282,55583,La Perouse,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_393,272,611286,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,272,611287,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,272,611288,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_391,356,611289,55599,Port Botany Depot,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_393,356,611296,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_395,356,611297,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,356,611304,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,356,611305,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_391,272,611310,55599,Port Botany Depot,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_391,272,611311,55599,Port Botany Depot,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_391,272,611312,55599,Port Botany Depot,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_391,272,611313,55599,Port Botany Depot,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_391,272,611314,55599,Port Botany Depot,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_391,272,611315,55599,Port Botany Depot,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_391,272,611316,55599,Port Botany Depot,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_393,272,611323,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,611324,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,611325,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,611326,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,611327,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,356,611328,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_391,356,611373,55583,La Perouse,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_395,272,611426,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,272,611440,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,272,611441,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,272,611442,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_393,272,611445,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,272,611446,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,272,611447,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_391,272,611448,55583,La Perouse,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_391,356,611508,55599,Port Botany Depot,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_395,272,611556,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_393,272,611667,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_391,356,611718,55583,La Perouse,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_391,356,611719,55583,La Perouse,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_395,356,611746,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,356,611747,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,356,611748,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,356,611749,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,272,611752,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,272,611753,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,272,611754,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_391,356,611910,55599,Port Botany Depot,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_393,356,611940,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_395,356,611951,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_391,356,611977,55599,Port Botany Depot,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_391,356,611978,55599,Port Botany Depot,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_391,356,611979,55599,Port Botany Depot,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_391,272,612018,55599,Port Botany Depot,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_391,272,612019,55599,Port Botany Depot,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_391,356,612042,55599,Port Botany Depot,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_393,356,612045,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_391,272,612050,55583,La Perouse,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_391,272,612051,55583,La Perouse,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_391,272,612052,55583,La Perouse,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_391,272,612053,55583,La Perouse,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_391,272,612054,55583,La Perouse,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_391,272,612055,55583,La Perouse,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_391,272,612056,55583,La Perouse,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_395,272,612112,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_393,272,612165,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_391,356,612192,55599,Port Botany Depot,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_391,356,612193,55599,Port Botany Depot,0,,1,,Central Railway Square to La Perouse or Port Botany
+2441_393,272,612198,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,272,612199,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,272,612200,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,272,612201,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,272,612202,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,272,612203,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,272,612204,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,272,612205,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,272,612206,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,272,612207,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,272,612208,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,272,612232,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,272,612252,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,272,612253,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,272,612254,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,272,612255,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,272,612256,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,272,612257,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,272,612258,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,272,612259,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,272,612260,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,272,612261,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,272,612262,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,272,612297,55538,Little Bay,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_395,272,612301,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,272,612302,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,272,612303,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,272,612304,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,272,612305,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,272,612306,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,272,612307,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,272,612308,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,272,612309,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,272,612310,55596,Maroubra Beach,0,,1,,Central Railway Square to Maroubra Beach
+2441_395,213,635959,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,213,635960,56992,Railway Sq,1,,2,,Maroubra Beach to Central Railway Square
+2441_395,213,635961,56992,Railway Sq,1,,2,,Maroubra Beach to Central Railway Square
+2441_393,213,635968,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,635969,57003,Railway Sq,1,,2,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,635970,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,635971,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,635972,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,635998,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,635999,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636000,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636001,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636002,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636003,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636004,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636005,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636006,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636007,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636008,56996,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636011,56995,Railway Sq,1,,2,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636012,57013,Railway Sq,1,,2,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636022,57003,Railway Sq,1,,2,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_395,213,636023,56992,Railway Sq,1,,2,,Maroubra Beach to Central Railway Square
+2441_395,213,636024,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_393,213,636049,56996,Railway Sq,1,,2,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636060,57013,Railway Sq,1,,2,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636061,57013,Railway Sq,1,,2,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_395,213,636062,56991,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_393,213,636064,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636065,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636066,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636067,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636068,57003,Railway Sq,1,,2,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636069,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636070,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636071,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636072,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636073,57003,Railway Sq,1,,2,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636074,57011,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636075,57011,Railway Sq,1,,2,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636076,57011,Railway Sq,1,,2,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_395,213,636077,56991,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,213,636078,56991,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_393,213,636084,57011,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_395,213,636089,56992,Railway Sq,1,,2,,Maroubra Beach to Central Railway Square
+2441_393,213,636099,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636100,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636101,57008,Railway Sq,1,,2,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636124,56996,Railway Sq,1,,2,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_395,213,636126,56991,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,213,636129,56991,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_393,213,636130,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636136,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636137,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636138,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636180,56997,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636182,57013,Railway Sq,1,,2,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636188,57011,Railway Sq,1,,2,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636191,57011,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636219,57011,Railway Sq,1,,2,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636226,57011,Railway Sq,1,,2,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636229,56995,Railway Sq,1,,2,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_395,213,636239,56991,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,213,636240,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_393,213,636269,56995,Railway Sq,1,,2,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636270,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636271,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636288,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636289,57003,Railway Sq,1,,2,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636290,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636291,57003,Railway Sq,1,,2,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636292,57003,Railway Sq,1,,2,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636293,57003,Railway Sq,1,,2,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636294,57003,Railway Sq,1,,2,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636296,57011,Railway Sq,1,,2,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636300,57011,Railway Sq,1,,2,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636301,57011,Railway Sq,1,,2,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_395,213,636315,56991,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,213,636316,56992,Railway Sq,1,,2,,Maroubra Beach to Central Railway Square
+2441_395,213,636317,56992,Railway Sq,1,,2,,Maroubra Beach to Central Railway Square
+2441_395,213,636318,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,213,636319,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,213,636320,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,213,636321,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,213,636322,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,213,636323,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,213,636324,56992,Railway Sq,1,,2,,Maroubra Beach to Central Railway Square
+2441_395,213,636325,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_393,213,636326,57003,Railway Sq,1,,2,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_395,213,636327,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,213,636329,56991,Railway Sq,1,,2,,Maroubra Beach to Central Railway Square
+2441_393,213,636330,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636355,57007,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636362,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636381,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_395,213,636385,56991,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_393,213,636391,56996,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_395,213,636397,56992,Railway Sq,1,,2,,Maroubra Beach to Central Railway Square
+2441_393,213,636407,57011,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_395,213,636409,56992,Railway Sq,1,,2,,Maroubra Beach to Central Railway Square
+2441_393,213,636410,56995,Railway Sq,1,,2,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_395,213,636412,56991,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_393,213,636413,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636414,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636415,57011,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636417,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636418,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636419,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636420,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636421,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,636422,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,636717,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,636718,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,636719,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,636720,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,636721,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,636722,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,636723,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,636724,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,636725,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,636726,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,636727,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,636728,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,636729,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,636730,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,636731,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,636732,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,636733,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,636743,57037,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,636744,57037,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,636745,57037,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_395,272,636746,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,272,636747,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,272,636770,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,272,636771,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,272,636772,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,272,636773,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,272,636774,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,272,636775,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,272,636776,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,272,636777,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,272,636778,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,272,636779,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_393,272,636820,56997,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,636821,56997,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,636822,56997,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,636823,56997,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,636858,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,636859,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,636990,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,636991,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,636993,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_395,272,637002,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_393,272,637007,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,637017,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,637062,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,637063,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,637079,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,637080,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,637081,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,637082,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,637115,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,637116,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_395,272,637155,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_393,272,637186,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,637187,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,637188,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,637189,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,272,637191,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_395,272,637214,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,272,637215,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,272,637216,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,272,637217,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,272,637218,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,272,637219,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,272,637220,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_393,356,637651,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637653,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637654,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637655,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637656,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637657,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637658,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637659,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637660,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637661,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637662,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637663,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637664,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637665,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637666,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637667,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637668,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637669,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637670,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637671,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_395,356,637676,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,356,637677,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,356,637678,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,356,637679,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,356,637680,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,356,637681,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,356,637682,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,356,637683,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,356,637684,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,356,637685,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,356,637686,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,356,637687,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,356,637688,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,356,637689,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,356,637690,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_393,356,637691,56997,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637692,56997,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637693,56997,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637694,56997,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637695,56997,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_395,356,637736,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_393,356,637741,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_395,356,637742,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_393,356,637744,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637745,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637746,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637747,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637748,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637760,57037,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637762,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637763,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637764,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637775,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637776,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637777,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637778,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637779,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637835,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637852,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637869,56997,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637870,56997,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_395,356,637919,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,356,637920,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,356,637921,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_395,356,637922,56992,Railway Sq,1,,1,,Maroubra Beach to Central Railway Square
+2441_393,356,637932,57037,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637933,57037,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637942,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637943,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637944,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637945,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637946,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637947,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637948,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637949,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637950,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637951,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,356,637952,56995,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_891,213,647045,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647046,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647047,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647048,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647049,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647050,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647051,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647052,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647053,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647054,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647055,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647056,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647057,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647058,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647059,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647060,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647061,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647062,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647063,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647064,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647065,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647066,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647067,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647068,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647069,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647070,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647071,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647072,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647073,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647074,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647075,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647076,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647077,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647078,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647079,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647080,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647081,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647082,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647083,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647084,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647085,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647086,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647087,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_393,213,647088,55586,Maroubra Junction,0,,2,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,647089,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,647090,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,647091,55586,Maroubra Junction,0,,2,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,647092,55586,Maroubra Junction,0,,2,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,647093,55586,Maroubra Junction,0,,2,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,647094,57003,Railway Sq,1,,2,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,647095,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,647096,57003,Railway Sq,1,,2,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,647097,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,647098,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_891,213,647099,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647100,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647101,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647102,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647103,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647104,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647105,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647106,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647107,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647108,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647109,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647110,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647111,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647112,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647113,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647114,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647115,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647116,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647117,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647118,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647119,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647120,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647121,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647122,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647123,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647124,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647125,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647126,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647127,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647128,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647129,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647130,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647131,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647132,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647133,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647134,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647135,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647136,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647137,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647138,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647139,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647140,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647141,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647142,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647143,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647144,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647145,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647146,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647147,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647148,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647149,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647150,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647151,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647152,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647153,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647154,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647155,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647156,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647157,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647158,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647159,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647160,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647161,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647162,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647163,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647164,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,213,647165,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_393,213,647185,55586,Maroubra Junction,0,,2,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,647186,55586,Maroubra Junction,0,,2,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,647187,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,647188,55586,Maroubra Junction,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,647189,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,647190,57003,Railway Sq,1,,2,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,647191,57003,Railway Sq,1,,2,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,647192,57003,Railway Sq,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,647193,57841,Central Eddy Ave,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,213,647194,55586,Maroubra Junction,0,,2,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,647196,55588,Kingsford,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,647197,55588,Kingsford,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,647198,55588,Kingsford,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,647199,55588,Kingsford,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,647200,55588,Kingsford,0,,1,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,647201,55588,Kingsford,0,,2,,Central Railway Square to Little Bay via Maroubra & Kingsford
+2441_393,213,647203,57841,Central Eddy Ave,1,,1,,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_391,356,657666,58569,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,356,657667,58569,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,356,657669,58571,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,356,657670,58571,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,356,657671,58571,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,356,657672,58571,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,356,657673,58571,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,356,657674,58571,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,356,657675,58570,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,356,657676,58571,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,356,657692,58569,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,356,657693,58570,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,356,657694,58570,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,356,657695,58570,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,356,657696,58570,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,356,657697,58570,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,356,657698,58570,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,356,657699,58570,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,213,657784,58589,Railway Sq,1,,2,,La Perouse or Port Botany to Central Railway Square
+2441_391,213,657786,58586,Railway Sq,1,,2,,La Perouse or Port Botany to Central Railway Square
+2441_391,213,657814,58569,Railway Sq,1,,2,,La Perouse or Port Botany to Central Railway Square
+2441_391,213,657819,58570,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,213,657825,58586,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,213,657829,58571,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,213,657830,58571,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,213,657831,58571,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,213,657832,58571,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,213,657833,58571,Railway Sq,1,,2,,La Perouse or Port Botany to Central Railway Square
+2441_391,213,657834,58571,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,213,657837,58586,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,213,657844,58586,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,213,657849,58586,Railway Sq,1,,2,,La Perouse or Port Botany to Central Railway Square
+2441_391,213,657857,58586,Railway Sq,1,,2,,La Perouse or Port Botany to Central Railway Square
+2441_391,213,657863,58570,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,213,657864,58582,Railway Sq,1,,2,,La Perouse or Port Botany to Central Railway Square
+2441_391,213,657865,58570,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,213,657866,58570,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,213,657867,58570,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,213,657868,58570,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,213,657869,58570,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,213,657874,58586,Railway Sq,1,,2,,La Perouse or Port Botany to Central Railway Square
+2441_391,213,657875,58586,Railway Sq,1,,2,,La Perouse or Port Botany to Central Railway Square
+2441_391,213,657877,58571,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,213,657878,58571,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,115,657879,58580,Railway Sq,1,,2,,La Perouse or Port Botany to Central Railway Square
+2441_391,213,657898,58569,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,213,657899,58569,Railway Sq,1,,2,,La Perouse or Port Botany to Central Railway Square
+2441_391,272,657903,58570,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,272,657904,58570,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,272,657905,58570,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,272,657906,58570,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,272,657907,58570,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,272,657908,58570,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,272,657909,58570,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,272,657910,58570,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,213,657911,58586,Railway Sq,1,,2,,La Perouse or Port Botany to Central Railway Square
+2441_391,272,657916,58571,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,272,657917,58571,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,272,657918,58571,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,272,657919,58571,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,272,657920,58571,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,272,657921,58571,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,272,657922,58571,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_391,272,657923,58571,Railway Sq,1,,1,,La Perouse or Port Botany to Central Railway Square
+2441_891,115,662259,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,115,662260,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,115,662261,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,115,662262,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,115,662263,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,115,662264,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,1,670891,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,215,670892,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_891,1,670893,46504,High St Nr ANZAC Pde UNSW Gate 3,0,,2,,PrePay Only - UNSW High St to Central Eddy Ave
+2441_391,1,670950,58570,Railway Sq,1,,2,,La Perouse or Port Botany to Central Railway Square
+2438_M10,272,679105,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679106,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679107,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679108,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679109,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679110,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679111,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679149,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679150,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679151,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679152,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679153,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679154,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679155,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679156,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679157,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679158,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679159,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679160,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679161,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679162,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679163,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679164,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679165,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679166,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679167,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679168,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679169,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679170,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679171,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679172,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679212,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679213,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679214,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679215,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679216,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679217,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679218,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679219,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679220,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679221,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679222,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679223,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679224,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679225,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679226,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679227,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679228,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679229,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679230,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679231,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,272,679232,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679233,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679234,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679235,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679236,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679237,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679238,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679239,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679240,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679241,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679242,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679243,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679244,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679245,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679246,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679247,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679248,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679249,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679250,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679251,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679252,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679253,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,272,679254,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681221,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681222,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681223,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681224,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681225,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681226,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681227,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681228,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,308,681229,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681230,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681231,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681232,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681233,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681234,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681235,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681236,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681237,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681238,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681239,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681240,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681241,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681242,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681243,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681244,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681245,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681246,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681247,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681248,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681249,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681250,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681251,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681252,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681253,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681254,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681255,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681256,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681257,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681258,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681259,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681260,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681261,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681262,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681263,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681264,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681265,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681266,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681267,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,308,681268,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681269,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681270,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681271,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681272,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681273,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681274,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681275,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681276,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681277,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681278,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681355,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681356,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681357,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681358,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681359,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681360,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681361,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681362,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,308,681363,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,308,681364,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681365,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681366,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681367,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681368,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681369,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681370,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681371,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681372,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681373,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681374,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681375,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681376,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681377,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681378,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681379,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681380,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681381,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681382,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681383,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681384,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681385,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681386,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681387,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681388,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681389,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,308,681390,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681391,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681392,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681393,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681394,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681395,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681396,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681397,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681398,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681399,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,308,681400,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681401,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681402,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681403,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681404,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681405,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681406,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681407,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681408,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681409,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681410,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681411,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681412,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681413,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681414,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681415,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681416,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681417,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681418,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681419,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681420,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681421,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681422,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681423,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681424,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681425,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681426,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681427,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681428,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681429,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681430,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681431,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681432,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681433,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681434,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681435,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681436,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681437,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681438,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681439,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681440,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681441,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681442,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681443,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681444,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681445,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681446,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681447,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681448,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681449,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681450,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681451,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681452,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681453,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681454,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681455,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681456,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681457,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681458,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681459,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681460,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681479,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681480,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681481,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681482,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681483,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681484,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681485,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,308,681486,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681487,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681488,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681489,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681490,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681491,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681492,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681493,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,115,681494,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681495,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681496,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681497,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681498,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681499,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,115,681500,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681501,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681502,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681503,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681504,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681505,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681506,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681507,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681508,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681509,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681510,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681511,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681512,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681513,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681514,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681515,55569,Leichhardt,1,,1,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,356,681516,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681517,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681518,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,356,681519,55547,Maroubra Junction,0,,1,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,291,688077,55547,Maroubra Junction,0,,2,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,291,688081,55569,Leichhardt,1,,2,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,291,688083,55547,Maroubra Junction,0,,2,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,291,688085,55569,Leichhardt,1,,2,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,291,688183,55569,Leichhardt,1,,2,,PrePay Only - Maroubra Junction to Leichhardt via City
+2438_M10,291,688184,55547,Maroubra Junction,0,,2,,PrePay Only - Leichhardt to Maroubra Junction via City
+2438_M10,291,688189,55569,Leichhardt,1,,2,,PrePay Only - Maroubra Junction to Leichhardt via City
+2441_393,150,75575,10615,Maroubra Junction,1,,2,1492.0,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,46,75576,10615,Maroubra Junction,1,,2,1492.0,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_393,197,75577,10615,Maroubra Junction,1,,2,1492.0,Little Bay to Central Railway Square via Maroubra & Kingsford
+2441_891,1,98080,11839,Unsw-High St,0,,1,,PrePay Only - UNSW High St to Central Eddy Ave

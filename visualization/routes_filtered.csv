@@ -1,0 +1,6 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color
+2438_M10,2438,M10,PrePay Only - Maroubra Junction to Leichhardt via City,Sydney Buses Network,700,00B5EF,FFFFFF
+2441_391,2441,391,La Perouse or Port Botany to Central Railway Square,Sydney Buses Network,700,00B5EF,FFFFFF
+2441_393,2441,393,Little Bay to Central Railway Square via Maroubra & Kingsford,Sydney Buses Network,700,00B5EF,FFFFFF
+2441_395,2441,395,Maroubra Beach to Central Railway Square,Sydney Buses Network,700,00B5EF,FFFFFF
+2441_891,2441,891,PrePay Only - UNSW High St to Central Eddy Ave,Sydney Buses Network,700,00B5EF,FFFFFF
