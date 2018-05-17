@@ -1,0 +1,233 @@
+stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,wheelchair_boarding
+200017,"Central Station, Railway Square, Stand J",-33.883129,151.203555,,,0
+200039,"Central Station, Eddy Ave, Stand A",-33.882506,151.20738899999998,,,0
+200047,Elizabeth St at Hay St,-33.880871,151.208651,,,0
+200053,"Central Station, Eddy Ave, Stand C",-33.882131,151.207152,,,0
+200054,"Central Station, Eddy Ave, Stand D",-33.882048,151.206998,,,0
+200062,"Central Station, Railway Square, Stand K",-33.88385,151.20354,,,0
+200064,"Central Station, Railway Square, Stand M",-33.883665,151.203342,,,0
+200071,"Museum Station, Liverpool St, Stand A",-33.876756,151.21045800000002,,,0
+200074,"Museum Station, Downing Centre, Stand B",-33.878023999999996,151.209431,,,0
+200083,Pitt St opp Barlow St,-33.881153000000005,151.206594,,,0
+200721,"Broadway Shopping Centre, Broadway",-33.88425,151.196023,,,0
+200723,"University of Technology Sydney, Broadway",-33.884115,151.201,,,0
+200815,Broadway at Buckland St,-33.884485999999995,151.19763400000002,,,0
+200819,"Central Station, Railway Square, Stand N",-33.884062,151.203625,,,0
+201011,Flinders St before Albion St,-33.884282,151.217627,,,0
+201013,Flinders St at Hannam St,-33.883208,151.217576,,,0
+201014,Flinders St before South Dowling St,-33.884444,151.217972,,,0
+201015,Chalmers St opp Belvoir St,-33.888602,151.20621,,,0
+201016,"Central Station, Chalmers St, Stand G",-33.886261,151.20671399999998,,,0
+201035,Albion St after Commonwealth St,-33.882765,151.21113,,,0
+201036,Albion St at Riley St,-33.883291,151.213491,,,0
+201037,Fitzroy St at Marshall St,-33.885735,151.21690800000002,,,0
+201038,Foveaux St at Crown St,-33.885213,151.2142,,,0
+201039,"Central Station, Foveaux St, Stand F",-33.8839,151.209257,,,0
+201046,Cleveland St at Marlborough St,-33.890907,151.210621,,,0
+201047,Cleveland St before Crown St,-33.891425,151.212377,,,0
+201048,Cleveland St before Bourke St,-33.89165,151.214006,,,0
+201050,Flinders St after Oxford St,-33.881481,151.217231,,,0
+201051,Oxford St opp Palmer St,-33.880094,151.216076,,,0
+201053,Oxford St at Riley St,-33.87877,151.214426,,,0
+201055,Oxford St after College St,-33.877483000000005,151.213254,,,0
+201056,Oxford St at Brisbane St,-33.877569,151.212966,,,0
+201058,Oxford St at Palmer St,-33.879575,151.215784,,,0
+201080,"Central Station, Elizabeth St, Stand E",-33.884107,151.208319,,,0
+201081,Elizabeth St at Devonshire St,-33.886216999999995,151.208291,,,0
+201082,Elizabeth St at Goodlet St,-33.889314,151.208065,,,0
+201635,Cleveland St at Bourke St,-33.891884999999995,151.214679,,,0
+201636,Cleveland St at Baptist St,-33.89151,151.211936,,,0
+201638,Cleveland St at Walker St,-33.890562,151.209292,,,0
+202111,Anzac Pde opp Robertson Rd,-33.899559,151.22212199999998,,,0
+202112,Anzac Pde before Cleveland St,-33.895785,151.221506,,,0
+202116,"Sydney Girls High School, Anzac Pde",-33.893339000000005,151.221077,,,0
+202123,Anzac Pde opp Sydney Boys High School,-33.89059,151.220742,,,0
+202124,Anzac Pde opp Sydney Girls High School,-33.893496999999996,151.221428,,,0
+202128,Anzac Pde after Lang Rd,-33.89618,151.221875,,,0
+202129,Anzac Pde before Robertson Rd,-33.898872,151.222374,,,0
+202133,"Sydney Boys High School, Cleveland St",-33.893025,151.218639,,,0
+202136,Cleveland St opp Sydney Boys High School,-33.893194,151.218548,,,0
+203116,"UNSW Gate 8, High St",-33.916035,151.23368,,,0
+203121,"UNSW Gate 3, High St",-33.915525,151.23001299999999,,,0
+203211,Bunnerong Rd near Joffre Cr,-33.92902,151.22916,,,0
+203212,Bunnerong Rd near Sergeant Larkin Cr,-33.927048,151.228603,,,0
+203214,"Kingsford Nine Ways, Anzac Pde - Stand C",-33.924027,151.227679,,,0
+203216,"Kingsford Nine Ways, Anzac Pde - Stand F",-33.923421999999995,151.22763899999998,,,0
+203218,"Kingsford Nine Ways, Anzac Pde - Stand E",-33.923695,151.227794,,,0
+203220,Anzac Pde near Barker St,-33.91965,151.226358,,,0
+203221,Bunnerong Rd near Anderson St,-33.927194,151.228835,,,0
+203222,Bunnerong Rd near Apsley Av,-33.928474,151.2292,,,0
+203224,Bunnerong Rd opp Prince Edward Cir,-33.931505,151.229838,,,0
+203225,Bunnerong Rd near Snape St,-33.933351,151.23036399999998,,,0
+203245,Anzac Pde near Wallace St,-33.924931,151.229472,,,0
+203246,Anzac Pde near Sturt St,-33.926146,151.231221,,,0
+203247,Anzac Pde at Botany St,-33.927656,151.23300700000001,,,0
+203248,Anzac Pde near Paton St,-33.929414,151.235859,,,0
+203249,Anzac Pde near Burbong St,-33.931153,151.23717,,,0
+203250,Anzac Pde near Avoca St,-33.932682,151.237569,,,0
+203251,Anzac Pde near Fischer St,-33.932762,151.236974,,,0
+203252,Anzac Pde near Broadbent St,-33.93142,151.23664399999998,,,0
+203253,Anzac Pde at Botany St,-33.928554999999996,151.233226,,,0
+203254,Anzac Pde near Hayward St,-33.926996,151.231377,,,0
+203285,"Kingsford Nine Ways, Anzac Pde - Stand A",-33.923444,151.22735,,,0
+203311,Anzac Pde Stand D at UNSW,-33.917873,151.22634299999999,,,0
+203315,Anzac Pde opp Ascot St,-33.907711,151.22343700000002,,,0
+203316,Anzac Pde opp Carlton St,-33.90571,151.223796,,,0
+203318,Anzac Pde at Abbotford St,-33.904253000000004,151.224071,,,0
+203319,Anzac Pde at Ascot St,-33.907779,151.223781,,,0
+203320,Anzac Pde before Todman Ave,-33.909584,151.223533,,,0
+203327,Anzac Pde at Doncaster Ave,-33.91265,151.224327,,,0
+203331,"Our Lady of the Rosary Primary School, Kensington Rd",-33.912756,151.22059,,,0
+203346,Anzac Pde before Addison St,-33.912791,151.224156,,,0
+203511,Bunnerong Rd opp Southpoint Shops,-33.950902,151.231649,,,0
+203512,Bunnerong Rd near Jersey Rd,-33.953514,151.230722,,,0
+203513,Westfield Eastgardens Lower Level,-33.945227,151.226256,,,0
+203515,Bunnerong Rd near Heffron Rd,-33.940841999999996,151.227898,,,0
+203516,Bunnerong Rd near Boyce Rd,-33.93874,151.22893200000001,,,0
+203517,Bunnerong Rd near Wark Av,-33.936965,151.22964299999998,,,0
+203518,Bunnerong Rd near Keysor Rd,-33.93577,151.230113,,,0
+203519,Bunnerong Rd opp Snape St,-33.934092,151.23029499999998,,,0
+203520,Bunnerong Rd near Prince Edward Cr,-33.932358,151.229903,,,0
+203521,Bunnerong Rd near Storey St,-33.935755,151.23034099999998,,,0
+203522,Bunnerong Rd near Mason St,-33.937899,151.22950500000002,,,0
+203523,Bunnerong Rd near Maroubra Rd,-33.939549,151.228791,,,0
+203524,Bunnerong Rd near Kingsford St,-33.941232,151.22805300000002,,,0
+203525,"Westfield Eastgardens, Bunnerong Rd",-33.945087,151.226502,,,0
+203526,Bunnerong Rd near Fitzgerald Av,-33.946963000000004,151.228978,,,0
+203555,"Maroubra Junction Public School, Anzac Pde",-33.936678,151.238503,,,0
+203556,Anzac Pde near Alma Rd,-33.939054,151.239055,,,0
+203557,Anzac Pde near Green St,-33.940675,151.23943300000002,,,0
+203558,Anzac Pde near Maroubra Rd,-33.942165,151.239779,,,0
+203559,Anzac Pde near Byng St,-33.944520000000004,151.240323,,,0
+203560,Maroubra Beach Set Down Only,-33.947618,151.255113,,,0
+203561,Anzac Pde at Fitzgerald Ave,-33.946412,151.240795,,,0
+203562,Anzac Pde near Minneapolis Cr,-33.948673,151.24125800000002,,,0
+203563,Anzac Pde opp Murray St,-33.950881,151.241769,,,0
+203564,Anzac Pde opp Memorial Reserve,-33.953674,151.242435,,,0
+203565,Anzac Pde near St Spyridon Maroubra,-33.954664,151.242906,,,0
+203566,Anzac Pde opp Truscott Av,-33.956765999999995,151.244852,,,0
+203568,Anzac Pde at Murray St,-33.950571000000004,151.241132,,,0
+203569,Anzac Pde near Wade St,-33.948634000000006,151.240686,,,0
+203570,Anzac Pde after Fitzgerald Ave,-33.945763,151.24000700000002,,,0
+203571,Anzac Pde near Wise St,-33.943251000000004,151.239403,,,0
+203572,Anzac Pde near Piccadilly Pl,-33.94092,151.238878,,,0
+203573,Anzac Pde near Gale Rd,-33.938123,151.238218,,,0
+203574,Anzac Pde at Storey St,-33.936943,151.23794099999998,,,0
+203576,Anzac Pde near Snape St,-33.934936,151.237483,,,0
+203594,"Maroubra SLSC, Marine Parade",-33.94672,151.256503,,,0
+203595,Marine Pde Terminus,-33.947526,151.25521899999998,,,0
+203611,Bunnerong Rd at Beauchamp Rd,-33.955866,151.230487,,,0
+203612,Bunnerong Rd near Daunt Av,-33.957814,151.231128,,,0
+203613,Bunnerong Rd near Franklin St,-33.960069,151.23140700000002,,,0
+203614,Bunnerong Rd opp Australia Ave,-33.96277,151.231789,,,0
+203615,Bunnerong Rd after Shirley Cres,-33.965878000000004,151.23131899999998,,,0
+203616,Bunnerong Rd near Military Rd,-33.968838,151.233804,,,0
+203617,Bunnerong Rd opp Botany Cemetery,-33.973314,151.236556,,,0
+203618,Bunnerong Rd near Little Bay Rd,-33.975145,151.236766,,,0
+203619,Bunnerong Rd near Yarra Rd,-33.979903,151.236661,,,0
+203620,Bunnerong Rd near Anzac Pde,-33.981666,151.23638200000002,,,0
+203621,Anzac Pde after Cape Banks Rd,-33.985275,151.235117,,,0
+203622,Anzac Pde Terminus,-33.987936,151.233608,,,0
+203623,Anzac Pde after Endeavour Av,-33.985621,151.23474199999998,,,0
+203624,Anzac Pde before Canara Av,-33.982943,151.235977,,,0
+203627,Yarra Rd near Anzac Pde,-33.979538,151.235878,,,0
+203628,Bunnerong Rd near Little Bay Rd,-33.976234999999996,151.23665,,,0
+203629,Bunnerong Rd near Botany Cemetery,-33.973045,151.236205,,,0
+203630,Bunnerong Rd near Military Rd,-33.968932,151.23365800000002,,,0
+203631,Bunnerong Rd at Moorina Ave,-33.966257,151.23095800000002,,,0
+203632,Bunnerong Rd near Partannia Av,-33.964683,151.231304,,,0
+203633,Bunnerong Rd at Australia Ave,-33.962734000000005,151.23148500000002,,,0
+203634,Bunnerong Rd near Perry St,-33.959816,151.231184,,,0
+203635,Bunnerong Rd opp Daunt Av,-33.957148,151.230522,,,0
+203636,Bunnerong Rd before Beauchamp Rd,-33.956039000000004,151.230209,,,0
+203637,Bunnerong Rd near Devitt Pl,-33.952951,151.23091200000002,,,0
+203638,Bunnerong Rd near Flint St,-33.95109,151.231427,,,0
+203639,Bunnerong Rd near Fitzgerald Rd,-33.947934000000004,151.230006,,,0
+203640,Bunnerong Rd near Smith St,-33.946962,151.228451,,,0
+203688,Military Rd near Bunnerong Rd,-33.970357,151.23081100000002,,,0
+203689,Military Rd near Botany Cemetery,-33.973539,151.22665700000002,,,0
+203690,Bumborah Point Rd near Friendship Rd,-33.971568,151.224345,,,0
+203768,Parramatta Rd opp University of Sydney Ross St Gate,-33.884906,151.185127,,,0
+203769,"University of Sydney Footbridge, Parramatta Rd",-33.884614,151.187704,,,0
+203770,Broadway opp Victoria Park,-33.884591,151.191996,,,0
+203832,Parramatta Rd before Young St,-33.888088,151.164306,,,0
+203833,Parramatta Rd before Johnston St,-33.88785,151.167179,,,0
+203834,Parramatta Rd at Nelson St,-33.887557,151.17102,,,0
+203835,Parramatta Rd at Mallett St,-33.886765999999994,151.17622,,,0
+204020,"Pioneers Memorial Park, Norton St",-33.877719,151.156372,,,0
+204021,"Pioneers Memorial Park, Norton St",-33.879577000000005,151.156622,,,0
+204023,"Leichhardt Public School, Marion St",-33.884329,151.15721200000002,,,0
+204025,Norton St before Parramatta Rd,-33.887609000000005,151.15762800000002,,,0
+204026,Norton St at Renwick Lane,-33.887617999999996,151.157456,,,0
+204027,Norton St opp Norton Plaza,-33.885501,151.157198,,,0
+204028,Norton St at Marion St,-33.884056,151.157002,,,0
+204030,Norton St at Allen St,-33.880171000000004,151.15651200000002,,,0
+204045,Norton St opp Pioneers Memorial Park,-33.877551000000004,151.156169,,,0
+204079,Parramatta Rd before Catherine St,-33.887745,151.160943,,,0
+204812,Parramatta Rd after Northumberland Av,-33.888093,151.166909,,,0
+204813,Parramatta Rd before Cannon St,-33.888339,151.163876,,,0
+204823,Parramatta Rd after Bridge Rd,-33.887761,151.171101,,,0
+204924,Parramatta Rd after Phillip St,-33.887954,151.160828,,,0
+205016,Parramatta Rd before Lyons Rd,-33.886215,151.178626,,,0
+205017,Parramatta Rd at Larkin St,-33.88564,151.181181,,,0
+205018,"Victoria Park, Broadway",-33.884637,151.193819,,,0
+205019,"University of Sydney Main Gate, Parramatta Rd",-33.884895,151.191011,,,0
+205020,"University of Sydney Footbridge, Parramatta Rd",-33.884828999999996,151.187736,,,0
+205021,"University of Sydney Ross St Gate, Parramatta Rd",-33.885174,151.184844,,,0
+205023,Parramatta Rd at Missenden Rd,-33.886148999999996,151.17998799999998,,,0
+205024,"Bridge Road School, Parramatta Rd",-33.887209999999996,151.17528000000001,,,0
+2031163,High St near Gate 2 UNSW,-33.915258,151.229088,,,0
+2031164,High St opp UNSW Gate 8,-33.915898999999996,151.233708,,,0
+2031165,High St near Botany St,-33.916409,151.23615,,,0
+2035128,Maroubra Rd near Garden St,-33.942102,151.242068,,,0
+2035129,Maroubra Rd near Anzac Pde,-33.941895,151.24059499999998,,,0
+2035130,Maroubra Rd near Garden St,-33.941783,151.24134899999999,,,0
+2035131,Maroubra Rd before Cooper St,-33.942155,151.243952,,,0
+2035142,Marine Parade opp Maroubra SLSC,-33.946119,151.256916,,,0
+2035143,Marine Pde at Maroubra Rd,-33.945107,151.25804499999998,,,0
+2035144,Maroubra Rd near Hereward St,-33.943821,151.256481,,,0
+2035145,Maroubra Rd near The Causeway,-33.942138,151.254321,,,0
+2035146,Maroubra Rd before Malabar Rd,-33.941226,151.25238000000002,,,0
+2035147,Maroubra Rd near French St,-33.942491,151.25033200000001,,,0
+2035148,Maroubra Rd near Flower St,-33.942896999999995,151.247511,,,0
+2035149,Maroubra Rd near Mons Av,-33.942507,151.244935,,,0
+2035150,Maroubra Rd near Flower St,-33.942609999999995,151.247108,,,0
+2035151,Maroubra Rd near French St,-33.942567,151.24967900000001,,,0
+2035152,Maroubra Rd after Malabar Rd,-33.94112,151.251749,,,0
+2035153,Maroubra Rd near Malabar Rd,-33.9417,151.253884,,,0
+2035154,Maroubra Rd near Duncan St,-33.943762,151.256665,,,0
+2035155,Maroubra Rd near Marine Pde,-33.944665,151.258179,,,0
+2036104,Bumborah Point Rd opp Friendship Rd,-33.972027000000004,151.224548,,,0
+2036105,Military Rd opp Botany Cemetery,-33.973396,151.22673600000002,,,0
+2036106,Military Rd opp Millennium Ct,-33.972007,151.228616,,,0
+2036107,Military Rd near Bunnerong Rd,-33.970273,151.23068700000002,,,0
+2036108,Port Botany Terminus,-33.969805,151.224785,,,0
+2036109,Anzac Pde near Hillary Pde,-33.959401,151.246881,,,0
+2036110,Anzac Pde near Franklin St,-33.962752,151.246631,,,0
+2036111,Anzac Pde near Austral St,-33.965587,151.24565900000002,,,0
+2036112,Anzac Pde near Mitchell St,-33.967721999999995,151.243607,,,0
+2036113,Anzac Pde near Long Bay Correctional Centre,-33.969105,151.242572,,,0
+2036114,Anzac Pde near Forrest St,-33.970566999999996,151.24203400000002,,,0
+2036115,Anzac Pde near Bilga Cr,-33.97334,151.24297099999998,,,0
+2036116,Anzac Pde after Cawood Av,-33.975315,151.242921,,,0
+2036117,Anzac Pde at Gubbuteh Rd,-33.977471,151.244016,,,0
+2036119,Anzac Pde after Pine Ave,-33.980486,151.244575,,,0
+2036120,Anzac Pde at Jennifer St,-33.981656,151.242752,,,0
+2036121,Anzac Pde at Budd Ave,-33.981739000000005,151.240571,,,0
+2036122,Anzac Pde near Bunnerong Rd,-33.982315,151.23648,,,0
+2036123,Anzac Pde opp Budd Ave,-33.981204999999996,151.240359,,,0
+2036124,Anzac Pde opp Jennifer St,-33.981169,151.242706,,,0
+2036125,Anzac Pde opp Pine Ave,-33.980308,151.244323,,,0
+2036126,Anzac Pde after Little Bay Rd,-33.977528,151.243666,,,0
+2036127,Anzac Pde near Nyan St,-33.97591,151.24263,,,0
+2036128,Anzac Pde near Kenny Av,-33.973293,151.24234199999998,,,0
+2036129,Anzac Pde near Forrest St,-33.96996,151.241422,,,0
+2036130,Anzac Pde near Mitchell St,-33.967651000000004,151.24296,,,0
+2036131,Anzac Pde near Austral St,-33.965393,151.24508500000002,,,0
+2036132,Anzac Pde near Lawson St,-33.962501,151.24615,,,0
+2036133,Anzac Pde near Hillary Pde,-33.959808,151.246367,,,0
+2036134,Anzac Pde near Truscott Av,-33.957438,151.244598,,,0
+2036135,Anzac Pde near St Spyridon School,-33.955431,151.24294,,,0
+2036136,"Memorial Reserve, Anzac Pde",-33.953329,151.241769,,,0
+2036146,Anzac Pde near Franklin St,-33.96209,151.246711,,,0
+2036192,Military Rd near Millennium Ct,-33.972004999999996,151.22878300000002,,,0
