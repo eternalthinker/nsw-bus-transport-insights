@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="TrafficDemo.Views.QueryPage" xmlns:vm="clr-namespace:TrafficDemo.ViewModels" Title="Input your Trip Plan:">
+    <ContentPage.BindingContext>
+        <vm:QueryViewModel />
+    </ContentPage.BindingContext>
+  
+    <StackLayout Spacing="20" Padding="15">
+        <StackLayout>
+            <Label Text="Stop:" />
+            <Entry x:Name="stop_id" Placeholder="Stop Id" Text="{Binding stop_id}" FontSize="Medium" Focused="StopEntry_Clicked"/>
+        </StackLayout>
+        <StackLayout>
+            <Label Text="Date:" />
+            <DatePicker x:Name="date" Date="{Binding dateTime.Date}" FontSize="Medium"/>
+        </StackLayout>
+        <StackLayout>
+            <Label Text="Time:" />    
+            <TimePicker x:Name="time" Time="{Binding dateTime.Time}" FontSize="Medium"/>
+        </StackLayout>
+        <Button Text="Search" Clicked="Search_Clicked" />
+    </StackLayout>
+
+</ContentPage>
+
