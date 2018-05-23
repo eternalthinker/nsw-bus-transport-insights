@@ -3,5 +3,5 @@
 while true
 do
 	python decode_api.py
-	sleep 30
+	sleep 15
 done
